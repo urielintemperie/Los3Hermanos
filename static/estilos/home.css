@@ -1,0 +1,56 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+banner {
+	text-align: center;
+    margin: -12px 0 0 0;
+    padding: 0
+}
+
+.menuizq{
+	float: left;
+	width: 26%;
+	height: 550px;
+	background-color: #e3e3e3;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.menuder{
+	float: right;
+	width: 50%;
+	height: 530px;
+	background-color: #e3e3e3;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.mapa{
+	float: right;
+	width: 20%;
+	height: 20%;
+}
+
+/*.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border:3px solid #73AD21;
+    padding: 10px;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border:3px solid #73AD21;
+    padding: 10px;
+}
+*/
